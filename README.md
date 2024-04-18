@@ -1,1 +1,1 @@
-# blitzday-frontend
+# sales-agent-ai-frontend
